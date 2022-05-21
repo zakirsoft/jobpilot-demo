@@ -1,11 +1,14 @@
-[![Hasaal](https://i.imgur.com/kaPPcDu.png)](https://codecanyon.net/item/hasaal-hospital-management-system-spa-single-page-application/32397840)
+[![Jobpilot](/preview.png)](https://codecanyon.net/item/Jobpilot-hospital-management-system-spa-single-page-application/32397840)
 
-# Hasaal - Hospital Management System SPA
+# Jobpilot - Job Portal Laravel Marketplace Script
 
-Hasaal is a modern and complete hospital management system for your organization. With tons of feature, you can manage your hospital using this application.
+Jobpilot is a complete job marketplace to exchange career opportunities. With Powerful Admin Panel, multiple language, currency, location, Building a dream career community is easy.
 
-- Built with Laravel 8 and Vue.js
-- Lightweight Speed with SPA Feature
+- Built with Most Popular PHP Framework (Laravel)
+- Powerful Admin Panel
 - Beautiful User Interface
+- Multiple Language/Currency
+- Company/Candidate Dashboard
+- Price Plan for Premium Jobs
 
-[View Demo](https://codecanyon.net/item/hasaal-hospital-management-system-spa-single-page-application/32397840)
+[View Demo](https://codecanyon.net/item/Jobpilot-hospital-management-system-spa-single-page-application/32397840)
