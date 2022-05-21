@@ -1,0 +1,17 @@
+{
+  "name": "my-project",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.3.1",
+    "postcss": "^8.3.6",
+    "standard-version": "^9.3.1",
+    "tailwindcss": "^2.2.7",
+    "vite": "^2.4.4"
+  }
+}
